@@ -172,10 +172,10 @@ cd 0x02-python_async_comprehension
 
 
 # :man: Author and Credits.
-This project was done by [SE. Moses Mwangi](https://github.com/MosesSoftEng). Feel free to get intouch with me;
+This project was done by [SE. Tolulope Fakunle](https://github.com/Tolulope05). Feel free to get intouch with me;
 
-:iphone: WhatsApp [+254115227963](https://wa.me/254115227963)
+:iphone: WhatsApp [+234813738316](https://wa.me/234813738316)
 
-:email: Email [moses.soft.eng@gmail.com](mailto:moses.soft.eng@gmail.com)
+:email: Email [fakunletolulope05@gmail.com](mailto:fakunletolulope05@gmail.com)
 
 :thumbsup: A lot of thanks to [ALX-Africa Software Engineering](https://www.alxafrica.com/) program for the project requirements.
